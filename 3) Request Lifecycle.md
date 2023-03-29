@@ -85,4 +85,4 @@ array_walk($this->serviceProviders, function ($p) {
 ```
 
 理解源码再来看以下的图就会更加明白。
-<img src="https://user-images.githubusercontent.com/45816141/226101690-60a46d6b-687f-49f6-87ea-8793e2b3cca4.jpg"/>
+<img src="https://user-images.githubusercontent.com/45816141/228406023-ab86ae89-6feb-4ea5-abf2-e10a90be409b.jpg"/>
